@@ -1,0 +1,36 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.textarea .content{
+    -fx-background-color: #ECF0F1;
+}
+
+.textarea_margin {
+    -fx-padding: 10px;    
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+
+}
+
+.textflow{
+    -fx-background-color: #ECF0F1;
+}
+
+.combo-box {
+    -fx-pref-width: 90;
+}
+
+.history {
+    -fx-border-color: grey
+}
+
+.bkgColor{
+	-fx-background-color: pink;
+}
+
+.userNameColor{
+	-fx-text-fill: pink;
+}
+
+.textColor{
+	-fx-text-fill: black;
+}
